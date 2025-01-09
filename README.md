@@ -24,8 +24,9 @@ MedAI is an innovative AI-powered diagnostic system aimed at revolutionizing the
 
 MedAI strives to tackle the complexities of medical diagnostics by harnessing the power of AI. With the ability to analyze vast amounts of medical data, MedAI helps clinicians diagnose diseases, identify conditions, and provide treatment recommendations more quickly and accurately. This system is designed to be a valuable assistant to medical professionals, ensuring better and more timely care for patients.
 
-![Main Image](link_to_your_main_image.jpg)
+![Main Image](image.png)
 *AI-Powered Diagnostics at Work*
+![Main Image](Technology.png)
 
 ---
 
@@ -41,7 +42,7 @@ To get MedAI up and running, follow the instructions below:
    pip install virtualenv
    virtualenv env
    ```
-   
+
 Activate the virtual environment (Windows PowerShell):
 ```bash
 
