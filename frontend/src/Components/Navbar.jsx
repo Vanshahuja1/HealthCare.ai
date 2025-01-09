@@ -33,7 +33,7 @@ export const Navbar = () => {
                     to="/"
                     className="text-2xl font-bold tracking-wide hover:text-gray-300 transition duration-300"
                 >
-                    HEALTHCARE.AI
+                    MED.ai
                 </Link>
             </div>
 
